@@ -34,6 +34,8 @@ form {
   width: 256px;
   z-index: -1;
   will-change: transform;
+  max-width: 136px;
+  max-height: 176px;
 }
 
 .randomPizzaContainer {
@@ -45,6 +47,11 @@ form {
   content: "";
   display: table;
   clear:both;
+}
+
+.imagesize {
+   max-width: 370px;
+   max-height: 270px;
 }
 
  .container {
