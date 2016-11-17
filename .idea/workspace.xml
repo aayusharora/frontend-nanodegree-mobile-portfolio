@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2434050-8503-487b-a44a-97109c40d679" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/2048.png" afterPath="$PROJECT_DIR$/dist/img/2048.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/cam_be_like.jpg" afterPath="$PROJECT_DIR$/dist/img/cam_be_like.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/mobilewebdev.jpg" afterPath="$PROJECT_DIR$/dist/img/mobilewebdev.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/profilepic.jpg" afterPath="$PROJECT_DIR$/dist/img/profilepic.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/views/images/pizza.png" afterPath="$PROJECT_DIR$/dist/views/images/pizza.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/views/images/pizzeria.jpg" afterPath="$PROJECT_DIR$/dist/views/images/pizzeria.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2048.png" afterPath="$PROJECT_DIR$/img/2048.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cam_be_like.jpg" afterPath="$PROJECT_DIR$/img/cam_be_like.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/mobilewebdev.jpg" afterPath="$PROJECT_DIR$/img/mobilewebdev.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profilepic.jpg" afterPath="$PROJECT_DIR$/img/profilepic.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/images/pizza.png" afterPath="$PROJECT_DIR$/views/images/pizza.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/images/pizzeria.jpg" afterPath="$PROJECT_DIR$/views/images/pizzeria.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/dist.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/views/css/style.css" afterPath="$PROJECT_DIR$/dist/views/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/views/js/main.js" afterPath="$PROJECT_DIR$/dist/views/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/views/pizza.html" afterPath="$PROJECT_DIR$/dist/views/pizza.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/css/style.css" afterPath="$PROJECT_DIR$/views/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/js/main.js" afterPath="$PROJECT_DIR$/views/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pizza.html" afterPath="$PROJECT_DIR$/views/pizza.html" />
     </list>
     <ignored path="frontend-nanodegree-mobile-portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,8 +51,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2480">
-              <caret line="370" column="0" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+            <state relative-caret-position="249">
+              <caret line="551" column="33" selection-start-line="551" selection-start-column="0" selection-end-line="551" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -79,7 +63,7 @@
       <file leaf-file-name="pizza.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/pizza.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
+            <state relative-caret-position="2160">
               <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
               <folding />
             </state>
@@ -89,7 +73,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="285">
               <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
               <folding />
             </state>
@@ -292,12 +276,12 @@
       <updated>1479292036448</updated>
       <workItem from="1479292041525" duration="1102000" />
       <workItem from="1479343457901" duration="7648000" />
-      <workItem from="1479407000937" duration="930000" />
+      <workItem from="1479407000937" duration="1679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9680000" />
+    <option name="totallyTimeSpent" value="10429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -389,14 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -405,10 +381,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2480">
-          <caret line="370" column="0" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+        <state relative-caret-position="249">
+          <caret line="551" column="33" selection-start-line="551" selection-start-column="0" selection-end-line="551" selection-end-column="33" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -417,7 +401,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/pizza.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
+        <state relative-caret-position="2160">
           <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
           <folding />
         </state>
