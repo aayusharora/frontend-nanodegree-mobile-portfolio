@@ -1,4 +1,4 @@
-## Website Performance Optimization portfolio project Goal
+## Website Performance Optimization 
 - To optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques we have picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
 
 ### About
@@ -21,7 +21,7 @@
   - Inline css manually before pageinsight check.
   - Remove pizza layout changes outside the loop for pizzacontainer. 
 
-### Refrences
+### References
 * [Optimizing Performance](https://developers.google.com/web/fundamentals/performance/ "web performance")
 * [Analyzing the Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp.html "analyzing crp")
 * [Optimizing the Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/optimizing-critical-rendering-path.html "optimize the crp!")
