@@ -25,6 +25,7 @@
     "gulp-replace": "^0.5.4"
   },
   "dependencies": {
-    "critical": "^0.8.0"
+    "critical": "^0.8.0",
+    "gulp-html-replace": "^1.6.1"
   }
 }
