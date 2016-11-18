@@ -7,6 +7,7 @@ var gulp = require('gulp'),
   uglify = require('gulp-uglify'),
   pump = require('pump'), 
   fs = require('fs'),
+  htmlreplace = require('gulp-html-replace'),
   clean = require('gulp-clean');
 
 
