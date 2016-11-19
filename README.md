@@ -23,9 +23,9 @@
 
 ### Performance Evaluation
 
-  * [60 fps]("http://imgur.com/a/tqRJd")
+  * [60 fps](http://imgur.com/a/tqRJd)
   
-  * [Google Page Insights]("http://imgur.com/a/x6W2Z")
+  * [Google Page Insights](http://imgur.com/a/x6W2Z)
   
   
 ### References
