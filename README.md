@@ -22,8 +22,10 @@
   - Remove pizza layout changes outside the loop for pizzacontainer. 
 
 ### Performance Evaluation
-  * [60 fps] (http://imgur.com/a/tqRJd)
-  * [Google Page Insights] (http://imgur.com/a/x6W2Z)
+  #### 60 fps
+  * <img src="http://imgur.com/a/tqRJd"/ alt="Achived 60fps"/>
+  #### Google Page Insights
+  * <img src ="http://imgur.com/a/x6W2Z" alt="google page speed"/>
   
 ### References
 * [Optimizing Performance](https://developers.google.com/web/fundamentals/performance/ "web performance")
