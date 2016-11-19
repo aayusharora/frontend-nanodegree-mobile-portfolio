@@ -9,7 +9,21 @@ var gulp = require('gulp'),
   fs = require('fs'),
   htmlreplace = require('gulp-html-replace'),
   clean = require('gulp-clean');
+  htmlmin = require('gulp-htmlmin');
 
+gulp.task('minifyRootHtml', function() {
+    return gulp.src('*.html')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest('dist'));
+});
+
+var htmlmin = require('gulp-htmlmin');
+
+gulp.task('minifyHtml', function() {
+    return gulp.src('views/*.html')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest('dist/views'));
+});
 
 gulp.task('clean', function () {
     return gulp.src('dist/*/**', {read: false})
@@ -28,15 +42,7 @@ gulp.task('copyRootCss', function () {
         .pipe(gulp.dest('dist/css'));
 });
 
-gulp.task('pizzaHtml', function () {
-  return gulp.src('views/pizza.html')
-        .pipe(gulp.dest('dist/views'));
-});
 
-gulp.task('rootHtml', function () {
-    return gulp.src('*.html')
-        .pipe(gulp.dest('dist'));
-});
 
 gulp.task('imageMinify', function() {
     gulp.src('views/images/*')
@@ -71,4 +77,4 @@ gulp.task('minifyRootPizzajs', function (cb) {
     );
 });
 
-gulp.task('default', ['minifyPizzajs','pizzaHtml','rootHtml', 'imageMinify', 'copyRootCss', 'minifyRootPizzajs','imageRootMinify', 'copy']);
+gulp.task('default', ['minifyPizzajs', 'minifyHtml','minifyRootHtml', 'imageMinify', 'copyRootCss', 'minifyRootPizzajs','imageRootMinify', 'copy']);

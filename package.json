@@ -26,6 +26,8 @@
   },
   "dependencies": {
     "critical": "^0.8.0",
-    "gulp-html-replace": "^1.6.1"
+    "dev": "^0.1.3",
+    "gulp-html-replace": "^1.6.1",
+    "gulp-htmlmin": "^3.0.0"
   }
 }
