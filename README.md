@@ -21,6 +21,10 @@
   - Inline css manually before pageinsight check.
   - Remove pizza layout changes outside the loop for pizzacontainer. 
 
+### Performance Evaluation
+  * [60 fps] (http://imgur.com/a/tqRJd)
+  * [Google Page Insights] (http://imgur.com/a/x6W2Z)
+  
 ### References
 * [Optimizing Performance](https://developers.google.com/web/fundamentals/performance/ "web performance")
 * [Analyzing the Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp.html "analyzing crp")
